@@ -1,0 +1,6 @@
+2.TCP :
+2.1 Send and receive
+send message from client to server
+server calculate data and send back
+2.2 Send File image 
+send File image to server
